@@ -9,3 +9,6 @@ div{
   background-image: url("pic.JPG");
   background-size:cover;
 }
+div{
+  height: fit-content;
+}
